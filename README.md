@@ -508,3 +508,4 @@ contentConfiguration.secondaryText = String(describing: emoji.category)
 cell.contentConfiguration = contentConfiguration
 ```
 [View in Source](x-source-tag://ValueCellConfiguration)
+# CollectionView
